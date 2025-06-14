@@ -101,7 +101,7 @@ function App() {
       <header className="py-12 text-center">
         <div className="flex justify-center mb-4">
           <img
-            src="/images/Logo-Branca.png"
+            src="/images/logobranca.png"
             alt="Logo da Marca"
             className="h-16 w-auto object-contain"
             style={{ maxHeight: '130px' }}
