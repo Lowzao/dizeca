@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, MessageCircle, ChevronLeft, ChevronRight, Bookmark } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, Bookmark } from 'lucide-react';
 
 interface Shirt {
   id: number;
@@ -101,7 +101,7 @@ function App() {
       <header className="py-12 text-center">
         <div className="flex justify-center mb-4">
           <img
-            src="/assets/images/Logo-Branca.png"
+            src="/images/Logo-Branca.png"
             alt="Logo da Marca"
             className="h-16 w-auto object-contain"
             style={{ maxHeight: '130px' }}
